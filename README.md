@@ -1,0 +1,1 @@
+# ResDiary-Email-Signature
