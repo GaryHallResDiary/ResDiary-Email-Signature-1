@@ -1,14 +1,14 @@
-# ResDiary-Email-Signature
+# ResDiary Email Signature
 
 ## How to generate html page preview link
 
 1. Open the html file you want to view as a page in this project. Copy the URL from the browser.
 
-2. Open <http://htmlpreview.github.io/> and paste the link.
+2. Open <https://htmlpreview.github.io/> and paste the link.
 
 ## Already generated links
 
-- [Latest email signature](http://htmlpreview.github.io/?https://github.com/aurimas-resdiary/ResDiary-Email-Signature/blob/master/index.html)
+- [Latest email signature](https://htmlpreview.github.io/?https://github.com/aurimas-resdiary/ResDiary-Email-Signature/blob/master/index.html)
 
 ## Structure
 
