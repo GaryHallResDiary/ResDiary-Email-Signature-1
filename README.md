@@ -9,6 +9,7 @@
 ## Already generated links
 
 - [Latest email signature](https://htmlpreview.github.io/?https://github.com/aurimas-resdiary/ResDiary-Email-Signature/blob/master/index.html)
+- [Live guides signature](https://htmlpreview.github.io/?https://github.com/aurimas-resdiary/ResDiary-Email-Signature/blob/master/index-live-guides.html)
 
 ## Structure
 
